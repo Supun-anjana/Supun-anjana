@@ -18,7 +18,7 @@ Welcome to my digital playground! I am an aspiring software engineer driven by a
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="400" alt="coding" />
+  <img src="https://github.com/Supun-anjana/Supun-anjana/blob/main/Hard%20Work.gif?raw=true" width="400" alt="coding" />
 </p>
 
 ---
