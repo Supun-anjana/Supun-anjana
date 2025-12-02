@@ -1,10 +1,13 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://nerdtechlk.com)
 
 <h1 align="center">Hi 👋, I'm Supun Anjana</h1>
+<p align="center">
+  <img src="https://github.com/Supun-anjana/Supun-anjana/blob/main/Text%20Animation.gif?raw=true" alt="Typing SVG" />
+</p>
 <h3 align="center">🚀 Full-Stack Developer | Creative Tech Enthusiast | Sri Lanka 🇱🇰</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Frontend+%2F+Backend+Developer;UI%2FUX+Designer+%7C+Tech+Lover;Building+web+%26+mobile+apps;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://github.com/Supun-anjana/Supun-anjana/blob/main/Text%20Animation.gif?raw=true" alt="Typing SVG" />
 </p>
 
 <p align="center">
