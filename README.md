@@ -33,59 +33,14 @@ Welcome to my digital playground! I am an aspiring software engineer driven by a
 
 ---
 
-### 🌐 Connect With Me
+### 🛠️ Technologies
 
 <p align="left">
-  <a href="https://twitter.com/Chandupa123" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://facebook.com/chandupajayalath2" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/chandupa_music" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@chandupajayalath" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,arduino,git,steam,epic,unity" />
 </p>
 
 ---
 
-### 🛠️ Skills & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,mongodb,nodejs,react,arduino,git,firebase,illustrator,photoshop,unity" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChandupaJay1&show_icons=true&theme=radical&border_radius=12&hide_border=true" alt="Chandupa's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandupaJay1&layout=compact&theme=radical&hide_border=true&border_radius=12" alt="Top Languages Used" />
-</p>
-
----
-
-### 🎯 Achievements & Contributions
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChandupaJay1&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChandupaJay1&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChandupaJay1&theme=tokyonight" />
-</p>
-
----
-
-### ☕ Support Me
-
-<p>
-  <a href="https://www.buymeacoffee.com/chandupa" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-  <a href="https://ko-fi.com/chandupajayalath" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ChandupaJay1&label=Profile%20Views&color=4caf50&style=flat" alt="ChandupaJay1" />
