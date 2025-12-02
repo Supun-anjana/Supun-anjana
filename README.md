@@ -25,23 +25,18 @@ Welcome to my digital playground! I am an aspiring software engineer driven by a
 
 ### 🧠 About Me
 
-- 🎓 Studying at **Java Institute for Advanced Technology, Sri Lanka**
+- 📚 Studying at **Java Institute for Advanced Technology, Sri Lanka**
 - 💬 Ask me about anything tech, I’m happy to help!
 - 📫 Reach me at: **supun.synthwave@gmail.com**
-- 📱 Call me at: [+94 740 704 069](tel:+94773729462)
+- ☎️ Call me at: [+94 740 704 069](tel:+94773729462)
 - ⚡ Fun Fact: *I think I'm the luckiest person.*
 
 ---
 
-### 🛠️ Technologies
+### 💻 Tech-Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,arduino,git,steam,epic,unity" />
-</p>
+<div align="center" style="width:'100%'; display: flex; align-items: center; justify-content: center;">
 
----
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,php,java,mysql,regex,git&perline=14)](#)
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChandupaJay1&label=Profile%20Views&color=4caf50&style=flat" alt="ChandupaJay1" />
-</p>
+</div>
