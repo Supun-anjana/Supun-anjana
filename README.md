@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://nerdtechlk.com)
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="37" style="border-bottom:none;"/> Hi, it's Supun,</h1>
+
 
 - BSc (Hons) Software Engineering Undergraduate.
 - Passionate about building scalable Web & Desktop Applications.
