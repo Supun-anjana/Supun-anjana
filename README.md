@@ -25,11 +25,11 @@ Welcome to my digital playground! I am an aspiring software engineer driven by a
 
 ### 🧠 About Me
 
-- 📚 Studying at **Java Institute for Advanced Technology, Sri Lanka**
-- 💬 Ask me about anything tech, I’m happy to help!
-- 📫 Reach me at: **supun.synthwave@gmail.com**
-- ☎️ Call me at: [+94 740 704 069](tel:+94773729462)
-- ⚡ Fun Fact: *I think I'm the luckiest person.*
+📚 Studying at **Java Institute for Advanced Technology, Sri Lanka**
+💬 Ask me about anything tech, I’m happy to help!
+📫 Reach me at: **supun.synthwave@gmail.com**
+☎️ Call me at: [+94 740 704 069](tel:+94773729462)
+⚡ Fun Fact: *I think I'm the luckiest person.*
 
 ---
 
